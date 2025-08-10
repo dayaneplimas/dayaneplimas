@@ -1,4 +1,5 @@
-<img src="https://media.giphy.com/media/3o6Zt8zb1jL3aWARDK/giphy.gif" width="600" alt="Cursor piscando estilo terminal"/>
+<img src="https://github.com/ines/termynal/raw/master/termynal2.gif" width="600" alt="Terminal minimalista animado" />
+
 
 # ​ Olá, eu sou a Dayane Lima!
 
