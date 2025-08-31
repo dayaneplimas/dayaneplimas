@@ -4,6 +4,7 @@
 # ​ Olá, eu sou a Dayane Lima!
   
 💻 Atualmente em formação em **Análise e Desenvolvimento de Sistemas** pela Universidade Cruzeiro do Sul.
+
 🎓 **Engenheira Civil** com 8 anos de experiência em **projetos, processos e dados**, atuando em empresas nacionais e multinacionais.
 🚀 Em transição de carreira com foco em integrar tecnologia, dados e inovação.
 
